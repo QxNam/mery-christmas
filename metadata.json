@@ -1,0 +1,6 @@
+{
+  "name": "Magic 3D Christmas Tree & Gesture Experience",
+  "description": "Interactive 3D particle Christmas tree and memory carousel with AI hand gesture recognition, touch controls, music, and customizable photo gallery for desktop and mobile.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
